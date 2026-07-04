@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 380" width="300" height="380">
+  <defs>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064E3B"/>
+      <stop offset="100%" stop-color="#065F46"/>
+    </linearGradient>
+  </defs>
+  <path d="M75 85 L28 122 L50 145 L75 127 L75 295 L225 295 L225 127 L250 145 L272 122 L225 85 Q207 72 190 77 Q168 92 150 92 Q132 92 110 77 Q93 72 75 85Z" fill="url(#g2)"/>
+  <path d="M110 77 Q132 100 150 100 Q168 100 190 77" fill="none" stroke="#34D399" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Floral: center flower -->
+  <circle cx="150" cy="175" r="14" fill="#F0FDF4" opacity="0.15"/>
+  <circle cx="150" cy="175" r="7"  fill="#6EE7B7" opacity="0.7"/>
+  <!-- petals -->
+  <ellipse cx="150" cy="155" rx="5" ry="10" fill="#A7F3D0" opacity="0.6"/>
+  <ellipse cx="150" cy="195" rx="5" ry="10" fill="#A7F3D0" opacity="0.6"/>
+  <ellipse cx="130" cy="175" rx="10" ry="5" fill="#A7F3D0" opacity="0.6"/>
+  <ellipse cx="170" cy="175" rx="10" ry="5" fill="#A7F3D0" opacity="0.6"/>
+  <ellipse cx="136" cy="161" rx="5" ry="10" fill="#6EE7B7" opacity="0.5" transform="rotate(-45 136 161)"/>
+  <ellipse cx="164" cy="161" rx="5" ry="10" fill="#6EE7B7" opacity="0.5" transform="rotate(45 164 161)"/>
+  <ellipse cx="136" cy="189" rx="5" ry="10" fill="#6EE7B7" opacity="0.5" transform="rotate(45 136 189)"/>
+  <ellipse cx="164" cy="189" rx="5" ry="10" fill="#6EE7B7" opacity="0.5" transform="rotate(-45 164 189)"/>
+  <!-- smaller flowers -->
+  <circle cx="118" cy="230" r="5" fill="#6EE7B7" opacity="0.5"/>
+  <circle cx="182" cy="230" r="5" fill="#6EE7B7" opacity="0.5"/>
+  <circle cx="150" cy="248" r="4" fill="#34D399" opacity="0.4"/>
+  <!-- stems -->
+  <line x1="150" y1="189" x2="150" y2="248" stroke="#34D399" stroke-width="1.5" opacity="0.4"/>
+  <line x1="150" y1="220" x2="118" y2="230" stroke="#34D399" stroke-width="1" opacity="0.3"/>
+  <line x1="150" y1="220" x2="182" y2="230" stroke="#34D399" stroke-width="1" opacity="0.3"/>
+  <text x="150" y="330" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700" fill="rgba(255,255,255,0.35)" letter-spacing="2">FLORAL</text>
+</svg>

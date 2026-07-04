@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 380" width="300" height="380">
+  <defs>
+    <linearGradient id="g5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F3F4F6"/>
+    </linearGradient>
+  </defs>
+  <path d="M75 85 L28 122 L50 145 L75 127 L75 295 L225 295 L225 127 L250 145 L272 122 L225 85 Q207 72 190 77 Q168 92 150 92 Q132 92 110 77 Q93 72 75 85Z" fill="url(#g5)" stroke="#E5E7EB" stroke-width="1"/>
+  <path d="M110 77 Q132 100 150 100 Q168 100 190 77" fill="none" stroke="#D1D5DB" stroke-width="2" stroke-linecap="round"/>
+  <!-- Corporate logo mark -->
+  <rect x="120" y="140" width="60" height="60" rx="12" fill="#7C3AED"/>
+  <!-- Abstract logo inside -->
+  <path d="M133 170 L143 152 L153 170 Z" fill="rgba(255,255,255,0.9)"/>
+  <path d="M147 170 L157 152 L167 170 Z" fill="rgba(255,255,255,0.5)"/>
+  <rect x="133" y="173" width="34" height="4" rx="2" fill="rgba(255,255,255,0.6)"/>
+  <!-- Company name -->
+  <text x="150" y="222" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="800" fill="#374151" letter-spacing="3">SUA EMPRESA</text>
+  <text x="150" y="234" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="8" fill="#9CA3AF" letter-spacing="1">SLOGAN AQUI</text>
+  <!-- subtle grid lines on white -->
+  <line x1="75" y1="260" x2="225" y2="260" stroke="#F3F4F6" stroke-width="1"/>
+  <line x1="75" y1="275" x2="225" y2="275" stroke="#F3F4F6" stroke-width="1"/>
+  <text x="150" y="330" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700" fill="rgba(100,100,120,0.5)" letter-spacing="2">CORPORATIVA</text>
+</svg>
